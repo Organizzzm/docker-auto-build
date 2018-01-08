@@ -1,0 +1,1 @@
+Docker automate build. Lesson
