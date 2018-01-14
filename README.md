@@ -1,1 +1,2 @@
-Docker automate build. Lesson
+# Using Docker Code Examples
+## "Continuous Integration and Testing with Docker"
